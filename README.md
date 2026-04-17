@@ -1,7 +1,7 @@
-# FASE DE INVESTIGACIÓN: SEGURIDAD Y AUDITORÍA DEL SISTEMA
+# 1. FASE DE INVESTIGACIÓN: SEGURIDAD Y AUDITORÍA DEL SISTEMA
 Este documento detalla la investigación sobre el estándar Syslog, la gestión de logs en Linux y la importancia de la centralización de registros para el cumplimiento del RGPD.
 
-# RETO DE INVESTIGACIÓN 1: ANATOMÍA DE SYSLOG Y SEGURIDAD LOCAL
+# 2. RETO DE INVESTIGACIÓN 1: ANATOMÍA DE SYSLOG Y SEGURIDAD LOCAL
 El Estándar Syslog
 
 El sistema Syslog es el corazón de la mensajería en Linux y clasifica cada evento cruzando dos variables fundamentales:
